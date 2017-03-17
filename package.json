@@ -1,0 +1,29 @@
+{
+  "name": "openspace",
+  "version": "1.0.0",
+  "description": "OpenSpace, a plugable, microservice based space management service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codegravy/openspace.git"
+  },
+  "keywords": [
+    "coworking"
+  ],
+  "author": "Blixa Morgan <blixa@projectmakeit.com> (MrMakeIt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codegravy/openspace/issues"
+  },
+  "homepage": "https://github.com/codegravy/openspace#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-sourcemaps": "^2.4.1"
+  }
+}
